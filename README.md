@@ -3,7 +3,7 @@
 
 ![jobs.lever.co preview](https://zac.codes/img/other/jobs.lever.co_preview.png)
 
-I got tired of filling out my info for every job application I applied to.
+I got tired of filling out my info on every job application I applied for—only works on jobs.lever.co apps.
 
 ## Usage
 
