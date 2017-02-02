@@ -7,7 +7,7 @@ I got tired of filling out my info for every job application I applied to.
 
 ## Usage
 
-1. put your details in the `info` object
+1. add your details to the `info` object
 2. copy and paste the script into a console
 
 
